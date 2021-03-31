@@ -22,3 +22,8 @@
 	path = akretion/sale-workflow
 	url = git@github.com:akretion/sale-workflow.git
 	branch = 14.0-mig-sale_partner_version
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
