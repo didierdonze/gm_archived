@@ -3,7 +3,52 @@
 	url = git@github.com:OCA/bank-payment.git
 	branch = 14.0
 
-[submodule "akretion/banking"]
-	path = akretion/banking
-	url = git@github.com:akretion/banking.git
-	branch = 14-mig-account_payment_sale
+[submodule "akretion/sale-import"]
+	path = akretion/sale-import
+	url = git@github.com:akretion/sale-import.git
+	branch = 14.0
+
+[submodule "OCA/server-auth"]
+	path = OCA/server-auth
+	url = git@github.com:OCA/server-auth.git
+	branch = 14.0
+
+[submodule "OCA/rest-framework"]
+	path = OCA/rest-framework
+	url = git@github.com:OCA/rest-framework.git
+	branch = 14.0
+
+[submodule "akretion/sale-workflow"]
+	path = akretion/sale-workflow
+	url = git@github.com:akretion/sale-workflow.git
+	branch = 14.0-mig-sale_partner_version
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
+
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 14.0
+
+[submodule "OCA/connector"]
+	path = OCA/connector
+	url = git@github.com:OCA/connector.git
+	branch = 14.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
+
+[submodule "OCA/server-env"]
+	path = OCA/server-env
+	url = git@github.com:OCA/server-env.git
+	branch = 14.0
